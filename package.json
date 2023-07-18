@@ -27,7 +27,9 @@
     "next": "13.4.9-canary.2",
     "react": "18.2.0",
     "react-cookie": "^4.1.1",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-uploader": "^3.37.0",
+    "uploader": "^3.37.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.35.1",
